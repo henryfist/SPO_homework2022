@@ -1,0 +1,14 @@
+h1 { 
+    font-size: 250%;
+    font-weight: bold; 
+    font-family: Open Sans, Arial, sans-serif; 
+    color:DarkOrange;
+    text-align:center;
+   }
+   h2 { 
+    font-size: 200%; 
+    font-family: Open Sans, Arial, sans-serif; 
+    color:orange;
+    text-align:left;
+    font-style:italic;
+   }
